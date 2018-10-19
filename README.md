@@ -1,1 +1,2 @@
-# This dipository is for database management class assignments, projects and learning materials
+# This is a database management class projects. I designed a hospital database managment system with ER diagram and schema diagram.
+
