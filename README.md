@@ -11,8 +11,13 @@ SQLite
 
 # Pipeline for building the system 
 • Design the ER diagram
+
 • Decide the Cardinality Relationships 
+
 • Generate fake data for all the tables ( patient, patient_symtom , doctor, receptionist , nurse, bill ,accountant ,staff ) 
+
 • Based on the ER diagram , Cardinality Relationships, complete the hospital_schema.sql( assign primary key , foreign key, composite key,data types etc. ) 
+
 • Finish the hospital_load_csv_data.sql file to load csv files to the database 
+
 • Read in tables into database and run different test cases to make sure the system is working properly 
